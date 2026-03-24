@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&family=VT323&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-glitch: "Rubik Glitch", system-ui, sans-serif;
+  --font-digital: "VT323", monospace;
+}
